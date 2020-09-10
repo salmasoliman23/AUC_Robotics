@@ -1,2 +1,2 @@
-beginner_tutorials
+my_robot
 -DCATKIN_DEVEL_PREFIX=/home/salma/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/salma/catkin_ws/install -G Unix Makefiles

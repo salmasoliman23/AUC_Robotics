@@ -354,6 +354,12 @@ lib:FILEPATH=/opt/ros/melodic/lib/libxmlrpcpp.so
 //The directory containing a CMake configuration file for message_runtime.
 message_runtime_DIR:PATH=/opt/ros/melodic/share/message_runtime/cmake
 
+//Value Computed by CMake
+my_robot_BINARY_DIR:STATIC=/home/salma/catkin_ws/build/my_robot
+
+//Value Computed by CMake
+my_robot_SOURCE_DIR:STATIC=/home/salma/catkin_ws/src/my_robot
+
 //The directory containing a CMake configuration file for rosconsole.
 rosconsole_DIR:PATH=/opt/ros/melodic/share/rosconsole/cmake
 
